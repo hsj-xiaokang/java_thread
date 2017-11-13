@@ -1,4 +1,4 @@
-package com.hsj.javaThread.treadlocal;
+package com.hsj.javaThread.threadlocal;
 
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
